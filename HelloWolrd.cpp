@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void printHello() {
+void printHelloo() {
     cout << "Hello, World edit baraye confilict" << endl;
 }
 
