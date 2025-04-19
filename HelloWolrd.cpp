@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void printHello() {
-    cout << "Hello, World" << endl;
+void printHelloo() {
+    cout << "Hello, World edit baraye confilict" << endl;
 }
 
 int main() {
